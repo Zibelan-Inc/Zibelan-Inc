@@ -4,7 +4,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C#](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-ðŸ“ˆ **My GitHub Stats:**
+**My GitHub Stats:**
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=Zibelan-Inc&theme=blue-white)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Zibelan-Inc&theme=blue-white)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
