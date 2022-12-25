@@ -6,7 +6,7 @@
 
 **My GitHub Stats:**
 
-![Repository's Stats](https://github-readme-stats.vercel.app/api?username=Zibelan-Inc&theme=blue-white)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Zibelan-Inc&theme=blue-white)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Repository's Stats](https://github-readme-stats.vercel.app/api?username=Zibelan-Inc&theme=dark)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Zibelan-Inc&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## Social networks
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+rlNlHBEZd8s2NmVh)
